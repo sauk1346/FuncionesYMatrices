@@ -4,7 +4,7 @@ import Home from './Pages/Inicio'
 import Funciones from './Pages/Funciones'
 import Trigonometria from './Pages/Trigonometria'
 import Matrices from './Pages/Matrices'
-import Navbar from './components/Navbar'
+import Navbar from './Components/Navbar'
 
 function App() {
   return (
@@ -22,5 +22,4 @@ function App() {
     </div>
   )
 }
-
 export default App
